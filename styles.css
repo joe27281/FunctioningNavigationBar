@@ -1,0 +1,178 @@
+<style>
+        html {
+          scroll-behavior: smooth;
+        }
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          border: 1px solid #df0000;
+          background-color: #df0000;
+        }
+        
+        li {
+          float: left;
+        }
+        
+        li a {
+          display: block;
+          color: rgb(0, 0, 0);
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+        
+        li a:hover:not(.active) {
+          background-color: #ddd;
+        }
+        
+        li a.active {
+          color: white;
+          background-color: #04AA6D;
+        }
+
+                #p1 {
+                    background: green;
+                    width: 100%;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                
+                #p2 {
+                    background-color: blue;
+                    width: 50%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p3 {
+                    background: red;
+                    width: 50%;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p4 {
+                    background: aqua;
+                    width: 33.3%;
+                    float: left;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+                #p5 {
+                    background: aquamarine;
+                    width: 33.3%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p6 {
+                    background: white;
+                    width: 33.3%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p7 {
+                    background: plum;
+                    width: 25%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p8 {
+                    background: peachpuff;
+                    width: 25%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p9 {
+                    background: palevioletred;
+                    width: 25%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p10 {
+                    background: pink;
+                    width: 25%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p11 {
+                    background: palegoldenrod;
+                    width: 20%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p12 {
+                    background: violet;
+                    width: 20%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p13 {
+                    background: pink;
+                    width: 20%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p14 {
+                    background: gray;
+                    width: 20%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #p15 {
+                    background: blanchedalmond;
+                    width: 20%;
+                    float: right;
+                    text-align: center;
+                    padding: 200px 0;
+                    font-size: 50px;
+                }
+
+                #footer {
+                    background: orange;
+                    width: 100%;
+                    text-align: center;
+                    padding: 100px 0;
+                    font-size: 50px;
+                }
+          </style>
+     </head>
+  </html>
+</style>
